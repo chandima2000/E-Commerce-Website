@@ -1,6 +1,6 @@
 # Over view
 
- This is an E-Commerce Website.
+ This is a responsive E-Commerce Website.
  
  This is used the 'https://dummyjson.com' API to fetch the data.
 
